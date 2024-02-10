@@ -1,0 +1,65 @@
+1,mp; Question number 1: 
+v; Correct answer number 1
+v; Correct answer number 2
+x; Wrong answer number 1
+!
+2,mp;Question number 2: 
+x; Wrong answer number 1
+v; Correct answer number 1
+v; Correct answer number 2
+v; Correct answer number 3
+!
+3,mp;Question number 3: 
+x; Wrong answer number 1
+v; Correct answer number 1
+x; Wrong answer number 2
+v; Correct answer number 2
+!
+3,mp;Question number 3: 
+x; Wrong answer number 1
+v; Correct answer number 1
+x; Wrong answer number 2
+v; Correct answer number 2
+!
+3,mp;Question number 3: 
+x; Wrong answer number 1
+v; Correct answer number 1
+x; Wrong answer number 2
+v; Correct answer number 2
+!
+3,mp;Question number 3: 
+x; Wrong answer number 1
+v; Correct answer number 1
+x; Wrong answer number 2
+v; Correct answer number 2
+!
+3,mp;Question number 3: 
+x; Wrong answer number 1
+v; Correct answer number 1
+x; Wrong answer number 2
+v; Correct answer number 2
+!
+3,mp;Question number 3: 
+x; Wrong answer number 1
+v; Correct answer number 1
+x; Wrong answer number 2
+v; Correct answer number 2
+!
+3,mp;Question number 3: 
+x; Wrong answer number 1
+v; Correct answer number 1
+x; Wrong answer number 2
+v; Correct answer number 2
+!
+3,mp;Question number 3: 
+x; Wrong answer number 1
+v; Correct answer number 1
+x; Wrong answer number 2
+v; Correct answer number 2
+!
+3,mp;Question number 3: 
+x; Wrong answer number 1
+v; Correct answer number 1
+x; Wrong answer number 2
+v; Correct answer number 2
+!

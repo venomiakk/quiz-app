@@ -1,0 +1,44 @@
+:root {
+  /* text */
+  --color1: rgb(238, 238, 238);
+
+  /* background */
+  --color2: rgb(44, 51, 59);
+
+  /* borders */
+  /* --color3: rgb(71, 48, 73); */
+  --color3: rgb(57, 62, 70);
+
+  /*  */
+  --color4: rgb(0, 173, 181);
+
+  /*shadow color*/
+  --color5: rgb(17, 17, 17);
+}
+
+body {
+  background-color: var(--color2);
+  color: var(--color1);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #555;
+  border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #747474;
+}
+
+.nav-bar {
+  background-color: rgb(45, 48, 51);
+  width: 150px;
+  font-style: italic;
+}

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles/loadTransition.css" />
+    <link rel="stylesheet" href="./styles/style.css" />
+    <title>Document</title>
+  </head>
+  <body class="loadTransitionElement">
+    <!-- ! wip element -->
+    <div class="nav-bar">
+      <p>temporary navbar</p>
+      <div>main</div>
+      <div><a href="./quiz-page/quiz-page.html">test page</a></div>
+    </div>
+    <!-- ! -->
+    
+    <div class="page-top">
+      <h1>Create test</h1>
+    </div>
+
+    <div class="flex-container-grid">
+      <div class="featured-element flex-container-grid">
+        <!-- <p>create test</p> -->
+        <input
+          type="text"
+          name="test-name"
+          id="testName"
+          placeholder="Name of test"
+          disabled
+        />
+        <input
+          type="number"
+          name="test-number"
+          id="testQCount"
+          placeholder="Number of questions"
+        />
+        <div>
+          <input type="file" id="fileInput" accept=".txt, .json" />
+        </div>
+        <input type="button" value="Load test" onclick="addTest()" />
+      </div>
+
+      <!-- ! wip element -->
+      <!-- <div class="featured-element">
+        <p>choose test</p>
+        <div id="test-container"></div>
+      </div> -->
+      <!--  -->
+    </div>
+  </body>
+  <script src="./scripts/script.js"></script>
+</html>
