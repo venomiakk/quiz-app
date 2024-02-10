@@ -3,8 +3,8 @@
 > _version 0.1, 10.02.2024_
 
 ## Usage
-Go to this [repository](https://venomiakk.github.io/quiz-app/) hosted on GitHub Pages
-Create a text file as shown below and simply upload it on the page.  
+Go to this [*repository*](https://venomiakk.github.io/quiz-app/) hosted on GitHub Pages.  
+Create a text file as shown below and simply upload it on the page. (You can use [*testInput.txt*](https://github.com/venomiakk/quiz-app/blob/main/testInput.txt) as a template)  
 Enter the number of questions that should be displayed on the quiz page.
 
 ### have in mind that:
